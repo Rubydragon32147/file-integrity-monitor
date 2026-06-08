@@ -1,0 +1,10 @@
+{
+  "watch_paths": [
+    "C:/Aditya/fims/Test1",
+     "C:/Aditya/fims/Test2"
+  ],
+  "ignored_extensions": [".tmp", ".log", ".pyc"],
+  "baseline_file": "baseline.json",
+  "log_file": "fims.log",
+  "check_interval_seconds": 60
+}

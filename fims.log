@@ -1,0 +1,11 @@
+2026-06-08 15:56:13 | WARNING | MODIFIED | C:/Aditya/fims/Test2\Hahahaha.txt | old=e3b0c44298fc | new=f0e4c2f76c58
+2026-06-08 15:56:37 | WARNING | NEW | C:/Aditya/fims/Test2\New Text Document.txt | old=N/A | new=e3b0c44298fc
+2026-06-08 15:56:44 | WARNING | NEW | C:/Aditya/fims/Test2\no.txt | old=N/A | new=e3b0c44298fc
+2026-06-08 15:56:44 | WARNING | DELETED | C:/Aditya/fims/Test2\New Text Document.txt | old=e3b0c44298fc | new=N/A
+2026-06-08 16:10:39 | WARNING | MODIFIED | C:/Aditya/fims/Test2\Hahahaha.txt | old=f0e4c2f76c58 | new=0530365c951b
+2026-06-08 16:10:55 | WARNING | NEW | C:/Aditya/fims/Test2\New Text Document.txt | old=N/A | new=e3b0c44298fc
+2026-06-08 16:11:01 | WARNING | NEW | C:/Aditya/fims/Test2\asdf.txt | old=N/A | new=e3b0c44298fc
+2026-06-08 16:11:05 | WARNING | DELETED | C:/Aditya/fims/Test2\asdf.txt | old=e3b0c44298fc | new=N/A
+2026-06-08 16:11:18 | WARNING | NEW | C:/Aditya/fims/Test2\New Text Document.txt | old=N/A | new=e3b0c44298fc
+2026-06-08 16:11:27 | WARNING | NEW | C:/Aditya/fims/Test2\adsf.txt | old=N/A | new=e3b0c44298fc
+2026-06-08 16:11:27 | WARNING | DELETED | C:/Aditya/fims/Test2\New Text Document.txt | old=e3b0c44298fc | new=N/A
