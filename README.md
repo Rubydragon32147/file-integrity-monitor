@@ -19,7 +19,7 @@ A lightweight **Host Intrusion Detection System (HIDS)** built in Python. Monito
 ## Setup
 
 ```bash
-git clone https://github.com/yourusername/fims.git
+git clone https://github.com/Rubydragon32147/file-integrity-monitor.git
 cd fims
 python -m venv venv
 venv\Scripts\activate
@@ -55,4 +55,4 @@ Cryptography · Endpoint Security · Incident Detection · CLI Design · Structu
 
 ---
 
-Built by [Your Name](https://github.com/yourusername) as a cybersecurity portfolio project.
+Built by [Rubydragon32147](https://github.com/Rubydragon32147) as a cybersecurity portfolio project.
